@@ -1,0 +1,12 @@
+{
+  "name": "peteratdennis/example_context_bye",
+  "description": "Example context.",
+  "type": "project",
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  
+  "require": {
+    "behat/behat": "~3.0,>=3.0.5",
+  }
+}
