@@ -7,6 +7,6 @@
   "prefer-stable": true,
   
   "require": {
-    "behat/behat": "~3.0,>=3.0.5",
+    "behat/behat": "~3.0,>=3.0.5"
   }
 }
